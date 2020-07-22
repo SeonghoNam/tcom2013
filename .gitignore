@@ -1,0 +1,6 @@
+*.fig
+*.mat
+*.asv
+*.pdf
+*.eps
+!tex/*.eps
